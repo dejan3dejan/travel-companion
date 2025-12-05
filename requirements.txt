@@ -1,9 +1,11 @@
+crewai
+crewai[google-genai]
+python-dotenv
 fastapi
 uvicorn
-crewai
-crewai[tools]
+requests
 pydantic
 google-generativeai
-python-dotenv
+loguru
 sqlalchemy
 psycopg2-binary
